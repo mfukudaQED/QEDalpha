@@ -1,0 +1,7 @@
+Dirac
+H atom
+test calculation
+C   1  0 0         A
+        1.    1
+H 1 0.000 0.000 0.000
+LARGE BASIS STO-3G
